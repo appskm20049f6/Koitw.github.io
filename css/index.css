@@ -187,6 +187,14 @@ body{
 .cl-tp:hover {
     color: #8b000000;
 }
+.title-img{
+    position: center;
+    width: 1080px;
+    height: 540px;
+    left: 0px;
+    top: 80px;
+    background: url(/img/HQ1080x540.jpeg);
+}
 .section-title{
     text-align: center;
     color: var(--yellow);
