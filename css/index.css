@@ -14,6 +14,8 @@ body{
     height: 100%;
     object-fit: contain;
 }
+
+
 .menu{
     position: fixed;
     right: 20px;
@@ -238,6 +240,20 @@ body{
     background-color: var(--brown);
     width: 300px;
 }
+.menu_text {                                 
+    height: 90px;                              
+    width: 100px;                                
+    float: right;                                 
+    text-align: center;                              
+    color: #666;                                        
+   }
+
+.menu_text:hover {                            
+    background-color: #0C6;             
+    color: #FFF;                                 
+    cursor: pointer;                          
+}
+
 .ticket::after {
     content: '';
     position: absolute;
@@ -266,6 +282,16 @@ body{
     padding-top: 200px;
     padding-bottom: 100px;
 }
+
+.picmovein img{
+    transform:scale(1,1);
+    transition: all 0.1s ease-out;
+}
+.picmovein img:hover{
+    transform:scale(1.1,1.1);
+    background-color: #fbfbfb0e;
+}
+
 .button {
     display: inline-block;
     text-align: center;
