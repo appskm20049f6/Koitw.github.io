@@ -475,15 +475,35 @@ footer{
     border-top: 6px dashed var(--brown);
     background-clip: padding-box;
 }
+#cy{
+    padding: 20px 0 18px 0;
+    font-size: .916rem;
+    line-height: 1.3rem;
+    color: #d2d2d2;
+    text-align: center;
+    height: auto;
+    
+}
+.bgdown-image{
+    height: 470px;
+    width: 100%;
+    background-image: url(/img/bgdown.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 .gear1{
     width: 100px;
     left: calc(50% - 50px);
     top: -50px;
+    background-position: center center;
 }
 .footer-logo{
+    
     position: relative;
     width: 100%;
     z-index: 10;
+    
 }
 @media (max-width: 768px) {
     .ticket-box {
