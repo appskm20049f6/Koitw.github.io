@@ -465,13 +465,29 @@ a.button:hover{
         margin-right: 0;
     }
 }
-footer{
+.footer{
     margin-top: 72px;
     padding: 50px 0;
     background: var(--brown);
     border-top: 6px dashed var(--brown);
     background-clip: padding-box;
 }
+
+.footer-li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+    width: 130px;
+}
+.footer-logolink{
+    float: left;
+    line-height: 100px;
+    width: 40px;
+}
+.footer-text{
+    float: center;
+}
+
 #cy{
     padding: 0px 0 0px 0;
     font-size: 0rem;
@@ -488,11 +504,6 @@ footer{
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom;
-}
-@media (max-width: 990px) {
-    .bgdown-image {
-        display: none;
-    }
 }
 
 .gear1{
