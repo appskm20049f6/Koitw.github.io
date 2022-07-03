@@ -63,9 +63,6 @@ body{
 .menu-content.active{
     width: 100%;
 }
-.main-nav{
-
-}
 .main-nav a{
     display: block;
     color: var(--yellow);
@@ -491,9 +488,6 @@ footer{
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: bottom;
-}
-.logo-link{
-    
 }
 @media (max-width: 990px) {
     .bgdown-image {
