@@ -18,6 +18,11 @@ body{
 h1{
     color: #ffef43df;
 }
+ul{
+    color: rgb(246, 88, 88);
+    list-style: square;
+    
+}
 
 .menu{
     position: fixed;
