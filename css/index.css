@@ -15,6 +15,9 @@ body{
     object-fit: contain;
 }
 
+h1{
+    color: #fff940;
+}
 
 .menu{
     position: fixed;
@@ -79,6 +82,9 @@ body{
     bottom: 30px;
     left: 50%;
     transform: translateX(-50%);
+}
+p{
+    font-size: 18px;
 }
 .item-list{
     font-size: 1.2rem;
@@ -287,6 +293,7 @@ body{
 .picmovein img:hover{
     transform:scale(1.1,1.1);
     background-color: #fbfbfb0e;
+    border-radius: 10px;
 }
 
 .button {
