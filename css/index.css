@@ -24,6 +24,10 @@ ul{
     list-style: square;
     
 }
+.paddingforimg img{
+    padding: 40px;
+    padding-top: 40px;
+}
 
 .menu{
     position: fixed;
@@ -300,6 +304,7 @@ p{
 .picmovein img{
     transform:scale(1,1);
     transition: all 0.1s ease-out;
+    padding: 20px;
 }
 .picmovein img:hover{
     transform:scale(1.1,1.1);
