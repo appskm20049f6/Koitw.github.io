@@ -1,0 +1,563 @@
+@charset "utf-8";
+.bg-change{
+    /* [disabled]color: #A78D33; */
+	}
+
+.bg-change:hover a{
+    color: #BD4648;	
+}
+.myMOUSE{ cursor: pointer; }
+
+
+
+
+/* CSS Document */
+
+   
+@keyframes fadein {
+  0% {opacity: 0;}
+  70% {opacity: 0.7;}
+}
+#bg-2022{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2021{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2020{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2019{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2018{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2017{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2016{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2015{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2014{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2013{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2012{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2011{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2010{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2009{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2008{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2007{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2006{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2005{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2004{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2003{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+#bg-2002{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    left: 860px;
+    top: 201px;
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 60px;
+    padding-right: 22px;
+    padding-bottom: 40px;
+    padding-left: 22px;
+}
+.inside-box{
+    animation: fadein 3s ease;
+    width: 750px;
+    height: 600px;
+    border: medium solid #907953;
+    border-radius: 10px;
+    background-color: #000000;
+    position: absolute;
+    /* [disabled]left: 920px; */
+    /* [disabled]top: 201px; */
+    opacity: 0.7;
+    color: #B59E62;
+    font-size: large;
+    text-align: left;
+    padding-top: 22px;
+    padding-right: 22px;
+    padding-bottom: 22px;
+    padding-left: 22px;
+    clear: both;
+}
+
+@import url("https://fonts.googleapis.com/earlyaccess/notosanstc.css");
+body {
+    font-family: 'Noto Sans TC'!important;
+    margin-bottom: 0px;
+    height: 1920px;
+		
+}
+.deco_top {
+    width: 750px;
+    height: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    float: left;
+    text-align: center;
+    margin-top: auto;
+    position: absolute;
+    left: -1px;
+    top: -5px;
+}
+.deco_button {
+    width: 750px;
+    height: 40px;
+    margin-right: auto;
+    /* [disabled]margin-left: auto; */
+    /* [disabled]float: left; */
+    text-align: center;
+    margin-top: 0px;
+    clear: both;
+    position: absolute;
+    top: 563px;
+    left: 0px;
+}
+bg-a{
+	position: relative;
+	display: inline-block;
+    padding: 3px 10px 3px 40px;
+    color: #6C5D3D;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    text-decoration: none;
+    font-size: 18px;
+    overflow: hidden;
+    transition: 0.2s;
+    
+}
+bg-a:hover
+{
+    color: #CD0003;
+	background-image: url("../images/qw.png");
+	/*box-shadow: 0 0 100px #FFFFFF, 0 0 3px #FFFFFF, 0 0 3px #FFFFFF;*/
+    transition-delay: 1s;
+    
+}
+
+bg-a span
+{
+	position: absolute;
+	display: block;
+}
+bg-a span:nth-child(1)
+{
+	top:0;
+	left:-100%;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(90deg,transparent,#CD0003);
+}
+bg-a:hover span:nth-child(1)
+{
+	left: 100%;
+	transition:  1s;
+}
+bg-a span:nth-child(3)
+{
+	bottom:0;
+	right:-100%;
+	width: 100%;
+	height: 2px;
+	background: linear-gradient(270deg,transparent,#CD0003);
+}
+bg-a:hover span:nth-child(3)
+{
+	right: 100%;
+	transition:  1s;
+	transition-delay: 0.5s; 
+}
+bg-a span:nth-child(2)
+{
+	top:-100%;
+	right:0;
+	width: 2px;
+	height: 100%;
+	background: linear-gradient(180deg,transparent,#CD0003);
+}
+bg-a:hover span:nth-child(2)
+{
+	top: 100%;
+	transition:  1s;
+	transition-delay: 0.25s; 
+}
+bg-a span:nth-child(4)
+{
+	bottom:-100%;
+	left:0;
+	width: 2px;
+	height: 100%;
+	background: linear-gradient(360deg,transparent,#CD0003);
+}
+bg-a:hover span:nth-child(4)
+{
+	bottom: 100%;
+	transition:  1s;
+	transition-delay: 0.75s; 
+}.back-btn  {
+    position: relative;
+    z-index: 300;
+    bottom: 0px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    top: -162px;
+}
