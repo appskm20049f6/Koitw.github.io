@@ -10,6 +10,7 @@ body{
 }
 h1{
     color: #f3f3f3;
+    font-size: 30px;
 }
 h2{
     color: #f3f3f3;
@@ -23,60 +24,108 @@ span{
 
 
 .header{
-    background-color: #232323;
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
     align-content: center;
-    margin: auto;
+}
+.header .topbar{
+    width: 100%;
+    height: 40px;
+    background-color: #292929;
 }
 
 
-.header a{
-    display: inline-block;
-    width: 100px;
-    height: 50px;    
+.header a{  
+    width: 100%;
+    height: 100%;
+    display: block;
     text-align: center;
-    line-height: 50px;
+    line-height: 40px;
     text-decoration:none;
     color: #f3f3f3;
-    Transition: all 0.5s 0s ease;
+    Transition: all 0.4s 0s ease;
 }
 .header a:hover{
-    background-color: #f3f3f3;
     color: #292929;
+    background-color: #f3f3f3;
 }
 
-
-
-.hot-empowerment {
-display: flex;
-flex-direction: column;
-
+.hottitle{
+    padding-top: 50px;
+    padding-left: 10%;
 }
 
-.list4img{
+.hot{
     display: flex;
-    justify-content:space-around;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: space-around;
+    align-content: center;
+    height: 500px;
+}
+.hotpic{
+    width: 34%;
+    display: grid;
+    gap: 3px;
+    grid-template-rows: 25% 25% 25% 25%;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-areas: 
+    "x x x x"
+    "x x x x"
+    "x x x x"
+    "a b c d";
+    overflow: hidden;
 }
 
-.row img{
-    padding-left: 10px;
-    padding-bottom: 10px;
+.sr0{
+    overflow: hidden;
+    grid-area: x;
+    position: relative;
+    height: 100%;
 }
-.newNFT{
-    display: flex;
-    padding-right: 3px;
-}
-
-.newNFTitem{
-    padding: 3px;
-    background-color: #ed8686;
-    margin: 3px;
-    
+.sr0 img{
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
 
 }
 
-.newNFT img{
-    padding: 3px;
+.sr1{
+    grid-area: a;
+    position: relative;
+    overflow: hidden;
+}
+.sr1 img{
+    object-fit :cover;
+}
+.sr2{
+    grid-area: b;
+    position: relative;
+    overflow: hidden;
+}
+.sr2 img{
+    object-fit :cover;
+}
+
+.sr3{
+    position: relative;
+    overflow: hidden;
+    grid-area: c;
+}
+.sr3 img{
+    object-fit :cover;
+}
+
+.sr4{
+    position: relative;
+    overflow: hidden;
+    grid-area: d;
+}
+.sr4 img{
+    object-fit :cover;
+}
+
+
+.hotNFT{
+    width: 66%;
 }
