@@ -30,17 +30,21 @@ span{
 }
 .header .topbar{
     width: 100%;
-    height: 40px;
+    height: 45px;
     background-color: #292929;
 }
 
+.bannertitle{
+    width: 30%;
+    height: 30%;
+}
 
 .header a{  
     width: 100%;
     height: 100%;
     display: block;
     text-align: center;
-    line-height: 40px;
+    line-height: 45px;
     text-decoration:none;
     color: #f3f3f3;
     Transition: all 0.4s 0s ease;
@@ -51,7 +55,7 @@ span{
 }
 
 .hottitle{
-    padding-top: 50px;
+    padding-top: 80px;
     padding-left: 10%;
 }
 
@@ -128,4 +132,5 @@ span{
 
 .hotNFT{
     width: 66%;
+    padding-left: 10px;
 }
