@@ -73,7 +73,8 @@ span{
     height: 500px;
 }
 .hotpic{
-    width: 34%;
+    padding-right: 10px;
+    width: 33%;
     display: grid;
     gap: 3px;
     grid-template-rows: 25% 25% 25% 25%;
@@ -87,55 +88,94 @@ span{
 }
 
 .sr0{
+    border: 1px #ffffffde solid;
     overflow: hidden;
     grid-area: x;
-    position: relative;
-    height: 100%;
+    justify-self: center;
 }
 .sr0 img{
-    position: absolute;
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-
+    object-fit : cover;
+    width: 100%;
+    height: 100%;
 }
 
 .sr1{
+    width: 100%;
+    border: 1px #ffffffde solid;
     grid-area: a;
     position: relative;
     overflow: hidden;
+    justify-self: center;
+    
 }
 .sr1 img{
-    object-fit :cover;
+    object-fit : cover;
+    width: 100%;
+    height: 100%;
 }
 .sr2{
+    width: 100%;
+    border: 1px #ffffffde solid;
     grid-area: b;
-    position: relative;
     overflow: hidden;
+    justify-self: center;
 }
 .sr2 img{
-    object-fit :cover;
+    object-fit : cover;
+    width: 100%;
+    height: 100%;
 }
 
 .sr3{
+    width: 100%;
+    border: 1px #ffffffde solid;
     position: relative;
     overflow: hidden;
     grid-area: c;
+    justify-self: center;
 }
 .sr3 img{
-    object-fit :cover;
+    object-fit : cover;
+    width: 100%;
+    height: 100%;
+    
 }
-
 .sr4{
+    width: 100%;
+    border: 1px #ffffffde solid;
     position: relative;
     overflow: hidden;
     grid-area: d;
+    justify-self: center;
 }
 .sr4 img{
-    object-fit :cover;
+    object-fit : cover;
+    width: 100%;
+    height: 100%;
+}
+.hotNFT{
+    width: 65%;
+}
+.nftsearch{
+    height: 25px;
+    border: 1px white solid;
+    display: flex;
+    align-content: center;
 }
 
+.nftsearch h3{
+    font-size: small;
+}
 
-.hotNFT{
-    width: 66%;
-    padding-left: 10px;
+.nftsearch img{
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
+.newnfttitle h3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.newnftint{
+
 }
