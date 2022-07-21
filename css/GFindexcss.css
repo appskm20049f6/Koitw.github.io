@@ -157,6 +157,7 @@ span{
     width: 65%;
 }
 .nftsearch{
+    width: 90%;
     height: 25px;
     border: 1px white solid;
     display: flex;
@@ -177,5 +178,46 @@ span{
     padding-top: 10px;
 }
 .newnftint{
+    width: 90%;
+    height: 475px;
+    display: grid;
+    gap: 3px;
+    grid-template-rows: 30% 30% 30% ;
+    grid-template-columns: 30% 30% 30% ;
+    grid-template-areas: 
+    "q w e"
+    "q w e"
+    "q w e";
 
+}
+
+.newnft-1{
+    width: 100%;
+    background-color: #f3f3f3;
+    grid-area: q;
+    overflow: hidden;
+    justify-self: center;
+
+}
+.newnft-2{
+    width: 100%;
+    background-color: #f3f3f3;
+    grid-area: w;
+    overflow: hidden;
+    justify-self: center;
+
+}
+
+.newnft-3{
+    width: 100%;
+    background-color: #f3f3f3;
+    grid-area: e;
+    overflow: hidden;
+    justify-self: center;
+
+}
+
+.newnftpic img{
+    width: 100%;
+    height: 100%;
 }
