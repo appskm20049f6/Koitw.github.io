@@ -387,14 +387,80 @@ span{
     Background-repeat:no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.699);
+    position: relative;
     
+}
+.partnerpic{
+    background-color: #f3f3f3;
+    margin: 10px;
+    border-radius: 20px;
 }
 .partner img{
     width: 300px;
     height: 300px;
-    border: 1px #090909;
     cursor: pointer; 
     border-radius: 20px;
     margin: 15px;
+    
+}
+.partnertitle-1{
+position:absolute;
+left: 8%;
+top: 7%;
+}
+
+.partnertitle-1 span{
+    font-size: 30px;
+    font-weight:bold;
+    color: #090909;
+}
+
+.footerbanner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.footerlist{
+
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    display: flex;
+    color: rgb(255, 255, 255);
+    justify-content:space-between;  
+}
+
+.hr{
+    border-top: 2px rgb(255, 255, 255) solid;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+.footerlist .title{
+    margin-bottom: 25px;
+}
+.footerlist .title span{
+    font-size: 30px;
+}
+.footerlist .renraku{
+    margin-bottom: 10px;
 
 }
+.footerlist .renraku span{
+    font-size: 25px;
+    color: #525252;
+}
+
+.copyright{
+    text-align: center;
+    color: #f3f3f3;
+}
+
+body{font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;}
