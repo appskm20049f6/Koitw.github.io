@@ -54,7 +54,7 @@ span{
     background-color: #f3f3f3;
 }
 .hottitle{
-    padding-top: 80px;
+    padding-top: 40px;
     padding-left: 10%;
 }
 .hot{
@@ -220,6 +220,7 @@ span{
     width: 100%;
 }
 .eventoltitle{
+    margin-top: 80px;
     padding-top: 5%;
     padding-left: 10%;
     padding-right: 10%;
@@ -238,6 +239,7 @@ span{
     max-height: 600px;
     padding-left: 10%;
     padding-right: 10%;
+    margin-bottom: 200px;
     justify-content: space-around;
     align-content: center;
     box-sizing :border-box;
