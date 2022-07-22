@@ -206,3 +206,21 @@ span{
     top: 60%;
     right: 25%;
 }
+.newnft-hot h2{
+    font-size: 15px;
+    color: #090909;
+    align-items: center;
+    position:absolute;
+    left: 25%;
+    top: 73%;
+    right: 25%;
+}
+.newnft-hot span{
+    font-size: 15px;
+    color: #090909;
+    align-items: center;
+    position:absolute;
+    left: 25%;
+    top: 77%;
+    right: 25%;
+}
