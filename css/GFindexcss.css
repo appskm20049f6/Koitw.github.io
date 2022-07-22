@@ -22,15 +22,12 @@ span{
     color: #f3f3f3;
 }
 
-
 .header{
     display: flex;
     justify-content: space-around;
     align-content: center;
     overflow: hidden;
     border-radius: 5px;
-    
-
 }
 .header .topbar{
     width: 100%;
@@ -223,7 +220,7 @@ span{
     width: 100%;
 }
 .eventoltitle{
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 10%;
     padding-right: 10%;
     display: flex;
@@ -315,4 +312,88 @@ span{
     color: #090909;
     border: 1px #090909;
     cursor: pointer; 
+}
+
+.news{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 700px;
+}
+
+.newsbanner{
+    width: 100%;
+}
+.newsbannerimg{
+    width: 100%;
+    height: 575px;
+    border: 7px rgba(255, 255, 255, 0.867) solid;
+    border-radius: 10px;
+}
+.newsbannerimg img{
+    width: 100%;
+    height: 100%;
+
+    object-fit : cover;
+}
+.newsbunsyo{
+    width: 45%;
+    margin-left: 70px;
+}
+
+.newsbar{
+    display: flex;
+    width: 100%;
+}
+.newsbar span{
+    font-size: 40px;
+}
+.newstitle{
+    width: 17%;
+}
+.newsmon{
+    padding-left: 15px;
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    border-top: 5px rgb(255, 255, 255) solid; ;
+}
+.newsborder{
+    height: 55px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    line-height: 50px;
+}
+.newsborder1{
+    height: 55px;
+    margin-bottom: 25px;
+    font-size: 40px;
+    overflow:hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background-color: #525252b2;
+    line-height: 50px;
+}
+.partner{
+    height: 500px;
+    display: flex;
+    padding-left: 7%;
+    align-items: center;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-painted-snow-festival-snow-background-material-image_279809.jpg");
+    Background-repeat:no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.699);
+    
+}
+.partner img{
+    width: 300px;
+    height: 300px;
+    border: 1px #090909;
+    cursor: pointer; 
+    border-radius: 20px;
+    margin: 15px;
+
 }
