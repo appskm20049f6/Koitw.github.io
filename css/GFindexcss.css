@@ -193,8 +193,10 @@ span{
     position: relative;
     background-color: #f3f3f3;
 }
+
+
 .newnft-hot h5{
-    font-size: 15px;
+    font-size: 0.3em;
     background-color: #f3f3f3;
     height: 40px;
     border: 1px black solid;
@@ -210,17 +212,13 @@ span{
     font-size: 15px;
     color: #090909;
     align-items: center;
-    position:absolute;
-    left: 25%;
-    top: 73%;
-    right: 25%;
+    padding-top: 15%;
+    width: 100%;
 }
 .newnft-hot span{
     font-size: 15px;
     color: #090909;
     align-items: center;
-    position:absolute;
-    left: 25%;
-    top: 77%;
-    right: 25%;
+    padding-top: 15%;
+    width: 100%;
 }
