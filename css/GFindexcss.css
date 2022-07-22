@@ -205,7 +205,7 @@ span{
     align-items: center;
     position:absolute;
     left: 25%;
-    top: 60%;
+    top: 62%;
     right: 25%;
 }
 .newnft-hot h2{
@@ -221,4 +221,82 @@ span{
     align-items: center;
     padding-top: 15%;
     width: 100%;
+}
+.eventoltitle{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+}
+.eventoltitle-1{
+    width: 75%;
+    padding-right: 5px;
+} 
+.eventoltitle-2{
+    width: 24%;
+} 
+
+.event{
+    display: flex;
+    max-height: 600px;
+    padding-left: 10%;
+    padding-right: 10%;
+    justify-content: space-around;
+    align-content: center;
+    box-sizing :border-box;
+
+}
+.event-ol{
+    margin: 2px;
+    border: 0px white solid;
+    background-color: #525252;
+}
+.event img{
+    width: 100%;
+    border: 1px white solid;
+    object-fit : cover;
+    height: 250px;
+}
+.event h1{
+    text-align: left;
+}
+.eventmenu{
+    width: 100%;
+    display: flex;
+}
+.eventmenu h2{
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+}
+
+.eventmenu h3{
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+}
+.eventonline{
+    width: 75%;
+    margin-right: 30px;
+}
+.eventtree{
+    width: 25%;
+    display: flex;
+    flex-direction:column;
+}
+.eventtree h4{
+    width: 50%;
+    height: 80px;
+    color: #f3f3f3;
+    background-color: #090909;
+    text-align: center;
+    line-height: 80px;
+    border: 1px white solid;
+}
+
+.eventtree h4:hover{
+    background-color: #f3f3f3;
+    color: #090909;
+    border: 1px #090909;
+    cursor: pointer; 
 }
