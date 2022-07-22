@@ -36,9 +36,7 @@ span{
     width: 100%;
     height: 45px;
     background-color: #292929;
-
 }
-
 .bannertitle{
     width: 30%;
     height: 30%;
@@ -58,12 +56,10 @@ span{
     color: #292929;
     background-color: #f3f3f3;
 }
-
 .hottitle{
     padding-top: 80px;
     padding-left: 10%;
 }
-
 .hot{
     display: flex;
     max-height: 600px;
@@ -72,7 +68,6 @@ span{
     justify-content: space-around;
     align-content: center;
     box-sizing :border-box;
-
 }
 .hotpic{
     padding-right: 10px;
@@ -88,9 +83,7 @@ span{
     "x x x x"
     "a b c d";
     overflow: hidden;
-
 }
-
 .sr0{
     border: 1px #ffffffde solid;
     overflow: hidden;
@@ -102,7 +95,6 @@ span{
     width: 100%;
     height: 100%;
 }
-
 .sr1{
     width: 100%;
     border: 1px #ffffffde solid;
@@ -129,7 +121,6 @@ span{
     width: 100%;
     height: 100%;
 }
-
 .sr3{
     width: 100%;
     border: 1px #ffffffde solid;
@@ -168,7 +159,6 @@ span{
     display: flex;
     align-content: center;
 }
-
 .nftsearch h3{
     font-size: small;
 }
@@ -186,18 +176,33 @@ span{
     padding-top: 5px;
 }
 .newnftint{
-    background-color: #f3f3f3;
     width: 100%;
     height: 100%;
     display: flex;
-
-
 }
 .newnftint img{
     width: 100%;
     border: 1px white solid;
     object-fit : cover;
     height: 350px;
-    z-index: 1;
-
+}
+.newnft-hot{
+    width: 33.3%;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    background-color: #f3f3f3;
+}
+.newnft-hot h5{
+    font-size: 15px;
+    background-color: #f3f3f3;
+    height: 40px;
+    border: 1px black solid;
+    border-radius: 2px;
+    line-height: 40px;
+    align-items: center;
+    position:absolute;
+    left: 25%;
+    top: 60%;
+    right: 25%;
 }
