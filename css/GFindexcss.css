@@ -292,6 +292,8 @@ span{
     text-align: center;
     line-height: 80px;
     border: 1px white solid;
+    border-radius: 4px;
+    Transition: all 0.3s 0s ease;
 }
 
 .eventtree h4:hover{
