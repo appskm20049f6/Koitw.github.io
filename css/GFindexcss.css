@@ -348,11 +348,10 @@ span{
     display: flex;
     width: 100%;
 }
-.newsbar span{
-    font-size: 40px;
-}
+
 .newstitle{
-    width: 17%;
+    width: 25%;
+    font-size: 40px;
 }
 .newsmon{
     padding-left: 15px;
