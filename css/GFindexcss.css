@@ -10,7 +10,6 @@ body{
 }
 h1{
     color: #f3f3f3;
-    font-size: 30px;
 }
 h2{
     color: #f3f3f3;
@@ -54,7 +53,7 @@ span{
     background-color: #f3f3f3;
 }
 .hottitle{
-    padding-top: 40px;
+    padding-top: 25px;
     padding-left: 10%;
 }
 .hot{
@@ -351,7 +350,7 @@ span{
 
 .newstitle{
     width: 25%;
-    font-size: 40px;
+    font-size: 25px;
 }
 .newsmon{
     padding-left: 15px;
@@ -362,8 +361,8 @@ span{
 }
 .newsborder{
     height: 55px;
-    margin-bottom: 25px;
-    font-size: 40px;
+    margin-bottom: 10px;
+    font-size: 25px;
     overflow:hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
@@ -371,8 +370,8 @@ span{
 }
 .newsborder1{
     height: 55px;
-    margin-bottom: 25px;
-    font-size: 40px;
+    margin-bottom: 10px;
+    font-size: 25px;
     overflow:hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
