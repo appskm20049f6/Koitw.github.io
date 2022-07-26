@@ -499,7 +499,7 @@ border-radius: 5px;
     margin-left: 4%;
     margin-right: 2%;
     margin-top: 3%;
-    border: solid 1px #dedede40;
+
 }
 
 .knowledgemon{
@@ -520,20 +520,85 @@ border-radius: 5px;
 }
 .knowledgecard{
     display: flex;
+    border: solid 1px #dedede40;
+    margin-bottom: 1.5%;
+}
+.cardimg{
+    width: 300px;
+    height: 200px;
+}
+.cardimg img{
+    width: 100%;
+    height: 100%;
+    object-fit : cover;
 
 }
 .cardmon{
+    width: 100%;
     color: #f3f3f3;
     margin-left: 15px;
 
 }
 .cardtime{
-    margin-top: 20px;
-    margin-bottom: 10px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     color: #dedede;
 }
 .cardclass{
     color: #525252;
-    margin-bottom: 10px;
+    margin-bottom: 1%;
+}
+.cardtitle{
+    color: #dbdbdb;
+    font-size: 20px;
+    margin-bottom: 2%;
+}
 
+.cardsocial{
+    border-top: #f3f3f3 solid 1px;
+    padding-top: 2%;
+    margin-right: 3%;
+    display: flex;
+}
+.cardlike{
+    margin-right: 10px;
+}
+
+.knowledgeadtop{
+    width: 100%;
+}
+.knowledgeadtopcard{
+    border: #525252 solid 1px;
+    border-bottom: #f3f3f3 solid 3px;
+    padding-bottom: 10%;
+}
+
+.knowledgeadtop img{
+    width: 100%;
+    height: 100%;
+    object-fit : cover;
+    margin-bottom: 6%;
+}
+
+.knowledgeadbottom{
+    width: 100%;
+    margin-top: 5%;
+
+}
+.knowledgeadbottom img{
+    width: 100%;
+    height: 100%;
+    object-fit : cover;
+    margin-bottom: 6%;
+}
+.knowledgeadbottomcard{
+    display: flex;
+    border: #525252 solid 1px;
+    padding: 5px;
+    margin-bottom: 3%;
+}
+.knowledgeadbottomcardimg{
+    width: 200px;
+    height: 100px;
+    margin-right: 5%;
 }
