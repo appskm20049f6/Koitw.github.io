@@ -455,7 +455,6 @@ border-radius: 5px;
 }
 .footerlist .renraku{
     margin-bottom: 10px;
-
 }
 .footerlist .renraku span{
     font-size: 25px;
@@ -467,4 +466,74 @@ border-radius: 5px;
     color: #f3f3f3;
 }
 
-body{font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;}
+.knowledgebanner{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+.knowbannerimg{
+    height: 430px;
+    width: 42%;
+    margin: 8px;
+}
+.knowledgebanner img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    object-fit : cover;
+}
+.knowbannerimg h4{
+    font-size: 23px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.knowledgemonsyo{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.knowledgecardlist{
+    margin-left: 4%;
+    margin-right: 2%;
+    margin-top: 3%;
+    border: solid 1px #dedede40;
+}
+
+.knowledgemon{
+    width: 75%;
+}
+.knowledgead{
+    width: 25%;
+    color: #f3f3f3;
+    font-size: 27px;
+}
+.knowledgemenu li{
+    font-size: 20px;
+    margin-right: 40px;
+    margin-left: 20px;
+    color: #f3f3f3;
+    display: inline-block;
+
+}
+.knowledgecard{
+    display: flex;
+
+}
+.cardmon{
+    color: #f3f3f3;
+    margin-left: 15px;
+
+}
+.cardtime{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #dedede;
+}
+.cardclass{
+    color: #525252;
+    margin-bottom: 10px;
+
+}
