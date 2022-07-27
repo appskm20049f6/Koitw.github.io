@@ -227,11 +227,11 @@ span{
     display: flex;
 }
 .eventoltitle-1{
-    width: 75%;
+    width: 74%;
     padding-right: 5px;
 } 
 .eventoltitle-2{
-    width: 24%;
+    width: 15%;
 } 
 
 .event{
@@ -295,13 +295,14 @@ span{
     margin-right: 30px;
 }
 .eventtree{
-    width: 25%;
+    width: 200px;
     display: flex;
     flex-direction:column;
+    margin-right: 10px;
     
 }
 .eventtree h4{
-    width: 40%;
+    width: 100%;
     height: 80px;
     color: #f3f3f3;
     background-color: #090909;
