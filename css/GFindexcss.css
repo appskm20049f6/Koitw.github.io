@@ -53,6 +53,7 @@ span{
     background-color: #f3f3f3;
 }
 .hottitle{
+    margin-top: 120px;
     padding-top: 25px;
     padding-left: 10%;
 }
@@ -239,7 +240,7 @@ span{
     max-height: 600px;
     padding-left: 10%;
     padding-right: 10%;
-    margin-bottom: 200px;
+    margin-bottom: 50px;
     justify-content: space-around;
     align-content: center;
     box-sizing :border-box;
@@ -382,6 +383,7 @@ span{
     line-height: 50px;
 }
 .partner{
+    margin-top: 150px;
     height: 250px;
     display: flex;
     padding-left: 7%;
